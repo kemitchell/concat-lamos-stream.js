@@ -9,6 +9,9 @@
   "files": [
     "index.js"
   ],
+  "keywords": [
+    "lamos"
+  ],
   "license": "MIT",
   "repository": "kemitchell/concat-lamos-stream.js"
 }
