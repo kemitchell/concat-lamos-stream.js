@@ -1,0 +1,14 @@
+{
+  "name": "concat-lamos-stream",
+  "version": "0.0.0",
+  "description": "concat-stream for LAMOS data",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "kemitchell/concat-lamos-stream.js",
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "lamos": "^2.0.2"
+  }
+}
