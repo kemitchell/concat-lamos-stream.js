@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "dependencies": {
-    "lamos": "^2.0.2"
+    "lamos": "^3.0.0"
   },
   "files": [
     "index.js"
