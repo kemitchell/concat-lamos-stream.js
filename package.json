@@ -1,7 +1,7 @@
 {
   "name": "concat-lamos-stream",
   "description": "concat-stream for LAMOS data",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "dependencies": {
     "lamos": "^2.0.2"
